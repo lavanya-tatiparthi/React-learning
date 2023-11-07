@@ -1,0 +1,32 @@
+{
+  "name": "hello_react",
+  "version": "1.0.0",
+  "description": "react development by lavanya",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavanya-tatiparthi/React-learning.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "react"
+  ],
+  "author": "lavanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavanya-tatiparthi/React-learning/issues"
+  },
+  "homepage": "https://github.com/lavanya-tatiparthi/React-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
